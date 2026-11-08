@@ -1,0 +1,20 @@
+// 19.00 Implement the simple conatainers / components classes hierarchy
+//       - Look again at the examples shared by Gemini
+//       - Try to implemet without looking into the examples the different classes, the issue i see:
+//              - union parameters
+//              - arrow function
+//              
+// 20.00 implement a small example for the left panel, the interests panel, the quick-access panel and the bookmarks-tables
+// 
+
+3. How to Spin This in Your Interview Next Week
+If the interviewers ask about your experience with TypeScript, Python, or Playwright, own your
+ architectural background and lean into your ability to learn fast:
+
+"My deepest production framework experience is in C# and enterprise test architecture, 
+where I've spent years building scalable Page Object models and automated testing pipelines. 
+While my hands-on production code has been in C#, the core engineering principles of test resilience,
+locator strategy, and CI/CD integration remain identical. 
+I’ve been diving into Playwright, TypeScript, and Python, and because Playwright’s
+architectural design emphasizes robust auto-waiting and modern locator APIs, 
+the transition has been remarkably intuitive."
